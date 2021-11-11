@@ -1,0 +1,3 @@
+include_directories(${CMAKE_CURRENT_LIST_DIR}/Inc)
+file(GLOB_RECURSE SRC "${CMAKE_CURRENT_LIST_DIR}/Src/*.c")
+list(APPEND SOURCES ${SRC})
