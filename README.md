@@ -1,4 +1,5 @@
 # CLI
+Basic CLI implemention for stm32.
 
 ## connector 
 
